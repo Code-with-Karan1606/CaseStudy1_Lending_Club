@@ -41,6 +41,7 @@ When a person applies for a loan, there are two types of decisions that could be
 ## Acknowledgements
 Give credit here.
 - UpGrad Tutorials
+- IIIT-B
 
 ## Contact
 Created by Karan Pandey - feel free to contact me!
