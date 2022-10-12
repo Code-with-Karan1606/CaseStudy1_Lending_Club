@@ -3,9 +3,8 @@
 
 
 ## Table of Contents
-* [Business Understanding](#Business Understanding)
-* [Loan Dataset](#Loan Dataset)
-* [Technologies Used](#technologies-used)
+* [Business Understanding](#Business-Understanding)
+* [Loan Dataset](#Loan-Dataset)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
@@ -28,34 +27,14 @@ When a person applies for a loan, there are two types of decisions that could be
 - Loan rejected: Data not available in dataset
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- Bank can strong the verification for loans taken for debt_consolidation
+- Bank can think on the interest rate, not to make it too high customer fails to pay.
+- Bank can strong the verification for CA. Some extra documents can be asked.
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- UpGrad Tutorials
+- IIIT-B
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by Karan Pandey and Phani - feel free to contact me!
